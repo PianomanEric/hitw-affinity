@@ -1,0 +1,14 @@
+{
+  "scripts": [
+    {
+      "id": "hitw-export-wall",
+      "name": "Export Wall",
+      "description": "Exports all PNGs and SVGs needed to build a wall in Blender.",
+      "version": "1.0.0",
+      "author": "Eric Falk",
+      "category": "Hole in the Wall",
+      "image": "",
+      "download_url": "https://raw.githubusercontent.com/pianomaneric/hitw-affinity/main/hitw-export-wall.js"
+    }
+  ]
+}
