@@ -4,7 +4,7 @@
       "id": "hitw-export-wall",
       "name": "HITW → Export Wall",
       "description": "Exports all PNGs and SVGs needed to build a wall in Blender.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "Eric Falk",
       "category": "Hole in the Wall",
       "image": "",

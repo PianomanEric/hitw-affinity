@@ -1,11 +1,3 @@
-/**
- * name: Export Wall
- * description: Automatically exports all wall decals and cutouts
- * version: 1.0.0
- * author: Eric Falk
- */
-
-//const { app } = require("/application");
 const { Document, FileExportArea, FileExportOptions } = require("/document");
 const { Dialog, DialogResult } = require('/dialog');
 const { DocumentCommand } = require("/commands");
